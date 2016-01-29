@@ -1,7 +1,7 @@
 # Simple Language Model [Torch]
 
 ### Summary
-Simple language model to train word vectors written in Lua using Torch. Trains word vectors using skip-gram for any domain (using Word2Vec initializations).
+Simple language model to train word vectors written in Lua using Torch. Trains word vectors using skip-gram for any domain (using word2vec initializations).
 
 #### Code
 The following modules are required to run the system:
